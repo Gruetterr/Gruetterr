@@ -2,6 +2,8 @@
 
 I'm a fan of C++ and currently trying to get better at competitive programming, I don't code much besides that tho...
 
+![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=Gruetter)
+
 <!--
 **Gruetterr/Gruetterr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
